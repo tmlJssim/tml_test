@@ -22,7 +22,7 @@ header = {
     "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7",
     "Accept-Charset": "application/x-www-form-urlencoded; charset=UTF-8",
     "Origin": "https://developer.riotgames.com",
-    "X-Riot-Token": "RGAPI-9cb1957f-f0bd-4fac-a125-d2efc347912a"
+    "X-Riot-Token": "RGAPI-57d2ff9c-8b8c-4f69-b84e-f8b2e1c3c069"
     }
 
 @app.get("/")
